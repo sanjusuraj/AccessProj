@@ -1,2 +1,2 @@
 # AccessProj
-practising selenium webdriver
+practising selenium webdriver using java in Eclipse
